@@ -4,7 +4,7 @@ A small script for **Debian/Ubuntu** which allows user to set a password for Goo
 Prompts for password on browser startup.
 
 > Note: Chrome Passcode adds an extra protection for the browser. 
-> All the Google Chrome **data are encrypted** with [gocryptfs](https://github.com/rfjakob/gocryptfs).
+> All the Google Chrome **data is encrypted** with [gocryptfs](https://github.com/rfjakob/gocryptfs).
 
 ![Video](images/video_01.gif)
 
@@ -27,7 +27,7 @@ The main menu will appear which allows to manage Chrome Passcode script:
 
 ### Browser Data Encryption
 
-All the Google Chrome data (e.g. sessions, cookies, history, saved passwords etc.) are stored in the `/home/$USER/.config/google-chrome/Default/` directory.
+All the Google Chrome data (e.g. sessions, cookies, history, saved passwords etc.) is stored in the `/home/$USER/.config/google-chrome/Default/` directory.
 
 After Chrome Passcode installation is completed, all the browser data encrypts with your password and stores in the `/home/$USER/.config/google-chrome/Default.encrypted/` directory.
 
