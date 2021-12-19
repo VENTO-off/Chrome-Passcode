@@ -6,7 +6,7 @@ Prompts for password on Google Chrome startup.
 > Note: Chrome Passcode adds an extra protection for the browser. 
 > All the Google Chrome **data are encrypted** with [gocryptfs](https://github.com/rfjakob/gocryptfs).
 
-![Video](images/video.gif)
+![Video](images/video_01.gif)
 
 ## Installation
 
@@ -21,7 +21,7 @@ The main menu will appear which allows to manage Chrome Passcode script:
 3. Uninstall Chrome Passcode and keep all the browser data
 4. Uninstall Chrome Passcode and loose browser data
 
-![img01](images/01.png)
+![img01](images/img_01.png)
 
 ## Algorithm
 
