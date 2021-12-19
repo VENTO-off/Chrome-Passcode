@@ -1,7 +1,7 @@
 # Chrome Passcode
 
-A small script for **Debian/Ubuntu** which allows user to set a password to avoid unauthorized access.
-Prompts for password on Google Chrome startup.
+A small script for **Debian/Ubuntu** which allows user to set a password for Google Chrome to avoid unauthorized access.
+Prompts for password on browser startup.
 
 > Note: Chrome Passcode adds an extra protection for the browser. 
 > All the Google Chrome **data are encrypted** with [gocryptfs](https://github.com/rfjakob/gocryptfs).
@@ -17,7 +17,7 @@ sudo bash install.sh
 
 The main menu will appear which allows to manage Chrome Passcode script:
 1. Install Chrome Passcode
-2. Change the password to unlock Google Chrome
+2. Change the password which unlocks Google Chrome
 3. Uninstall Chrome Passcode and keep all the browser data
 4. Uninstall Chrome Passcode and loose browser data
 
