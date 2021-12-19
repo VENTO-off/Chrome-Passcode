@@ -1,0 +1,4 @@
+
+# Chrome Passcode v1.0
+gnome-terminal --title=".:: Chrome Passcode v1.0 ::." --wait -- /usr/share/chrome-passcode/passcode.sh
+/usr/share/chrome-passcode/check.sh || exit
